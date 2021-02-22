@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "920374719186",
+    "project_id": "ajuda-o-prefeito",
+    "storage_bucket": "ajuda-o-prefeito.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920374719186:android:dc7b2127486c4032ae330b",
+        "android_client_info": {
+          "package_name": "com.marlonncarvalhosa.ajudeoprefeito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920374719186-gqgqd9j65bahbif4k2f9ts4rrqd99r29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marlonncarvalhosa.ajudeoprefeito",
+            "certificate_hash": "d2215ef8cdd32029b0f9c90b48e2d2092ddca1cd"
+          }
+        },
+        {
+          "client_id": "920374719186-edh36nrbar3f0ktko9dq9ine9mr1k5al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALRoE1wje8Ztz0Ale92t4GiafqLiTsWTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920374719186-edh36nrbar3f0ktko9dq9ine9mr1k5al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
